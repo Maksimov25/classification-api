@@ -2,5 +2,4 @@ streamlit
 requests
 Pillow
 numpy
-streamlit-drawable-canvas==0.9.3
 plotly
